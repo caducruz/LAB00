@@ -1,0 +1,18 @@
+# Básico
+*.log
+*.tmp
+*.temp
+*.DS_Store
+Thumbs.db
+
+# Build/IDE
+.vs/
+.vscode/
+bin/
+obj/
+out/
+build/
+
+# Cache comuns
+__pycache__/
+node_modules/
